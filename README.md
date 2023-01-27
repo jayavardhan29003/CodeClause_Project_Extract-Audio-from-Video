@@ -51,16 +51,4 @@ output_music
 1 - WAV
 ```
 
-----
-### `📝 Notes 📝`
 
-* **Input Video:** any format (mp4, mov, mvk...);
-* **Output Audio:** mp3 and wav only;
-* **Output Audio's Path:** the same of Python Code.
-
-----
-### `🎁 Bonus 🎁`
-
-* If you know another audio format that is good, lemme know and Imma upgrade this repo!
-
-----
